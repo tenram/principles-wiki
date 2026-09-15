@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/jorgetena/Claude-Code/principles-wiki/.claude/skills/principios-wiki/references)",
+      "Bash(mkdir -p /Users/jorgetena/Claude-Code/principles-wiki/raw)",
+      "Bash(mkdir -p /Users/jorgetena/Claude-Code/principles-wiki/wiki)"
+    ]
+  }
+}
