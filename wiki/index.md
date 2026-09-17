@@ -13,7 +13,7 @@ Esta es la versión viva del ensayo: crece cada vez que se ingiere una cita nuev
 | Principio | Resumen | Actualizado |
 |-----------|---------|-------------|
 | [Prefacio](00-prefacio.md) | Por qué escribo esto: pasar el fuego. | 2026-08-10 |
-| [1. La ejecución por encima de la intención](01-ejecucion-sobre-intencion.md) | Lo que no se ejecuta no existe. | 2026-08-17 |
+| [1. La ejecución por encima de la intención](01-ejecucion-sobre-intencion.md) | Lo que no se ejecuta no existe. | 2026-09-17 |
 | [2. El deber antes que el deseo](02-deber-antes-que-deseo.md) | Primero lo que se debe, después lo que se quiere. | 2026-08-10 |
 | [3. El tiempo y el legado](03-tiempo-y-legado.md) | Sé hoy por lo que quieres que te recuerden. | 2026-08-14 |
 | [4. El cambio y la tradición](04-cambio-y-tradicion.md) | Preservar el fuego, no adorar las cenizas. | 2026-08-10 |

@@ -10,6 +10,10 @@ Y cuando el resultado tarda, conviene recordar dónde está de verdad la diferen
 
 Sostener también es hacerse cargo. **"Controla tu propio destino, o alguien más lo hará"** (*J. Welch*)[^welch-destino] no es una frase de superación barata; es una advertencia. Si uno no dirige su vida, alguien la dirige, y rara vez a favor de uno. Tomar el timón no es un privilegio, es una obligación incómoda: obliga a elegir, a equivocarse y a responder. Ceder el mando se siente ligero un tiempo, hasta que uno ve adónde lo llevaron.
 
+Y una regla para el cómo, que me ha ido salvando de enredarme en mis propios planes: **"la simplicidad vence a la complejidad; lo bueno, si breve, dos veces bueno; la navaja de Occam es ley, y la solución de Alejandro al nudo gordiano es la táctica preferida cuando se entrega con elegancia y plena conciencia"**[^simple-breve-occam]. Cuando un problema se atraganta, la tentación es añadirle más capas; casi siempre el camino está en el otro sentido, recortar hasta lo esencial. Y cortar el nudo no es atajo tramposo si se hace a sabiendas de lo que se corta: es elegir el gesto que desata más con menos, y ejecutarlo entero, sin a medias.
+
+Y una regla para delegar sin ruido, que me dieron los años trabajando con agentes autónomos y que vale para cualquier equipo: **"nuestro protocolo de interacción es simple: máximo resultado de tu lado con el mínimo aporte del mío, tu principal. Antes de hacerme una pregunta o pedirme una aclaración, piensa cuál es la meta y si el camino que llevas es el mejor posible; si no lo es, detente, revalora tu situación y ejecuta el plan óptimo para lograrla"**[^protocolo-agentes]. Ese permiso de no preguntar no es desinterés: es la forma de decir que la ejecución fluye cuando el plan ya resolvió, antes de empezar, lo que se podía resolver. Por eso un buen plan, con enunciado claro del problema, camino por delante, tareas, pasos de validación, controles de deriva y de calidad, definición de terminado y de cómo se ve el éxito, es lo primero y lo más crítico de cada proyecto. Quien ejecuta con buen mapa no necesita llamar a cada cruce; y quien delega sin mapa, condena al otro a preguntar a cada esquina.
+
 Cierro este primer punto con algo mío, de tanto pelearme con el arranque: **"cierto es que en esta vida puedes hacer de todo; incierto es si lo quieres hacer o no; y la duda yace en cómo hacerlo."** Casi todo es posible. Lo dudoso es si de verdad lo quiero. Y la duda honesta, la que de verdad frena, casi nunca está en el *si*; está en el *cómo*. Separar esas tres cosas, lo posible, lo deseado y el método, aclara más decisiones que cualquier arranque de fuerza de voluntad.
 
 ## Notas de esta sección
@@ -19,3 +23,5 @@ Cierro este primer punto con algo mío, de tanto pelearme con el arranque: **"ci
 - [^lennon-planes] — John Lennon, planes y desvíos
 - [^refran-actitud] — refrán, actitud y voluntad
 - [^welch-destino] — Jack Welch, tomar el timón
+- [^simple-breve-occam] — síntesis del autor, lo simple gana
+- [^protocolo-agentes] — del autor, plan antes de preguntar
